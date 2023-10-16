@@ -4,7 +4,7 @@
 
 <ul>
   
-<strong><p> The Ohio State University, Columbus, OH
+<strong>The Ohio State University, Columbus, OH
 <p>Position: Teaching Associate</p>
 <li>[Fall, 2022]PUBHBIO 2210 Biostatistics for Public Health Research</li>
 <li>[Fall, 2022] PUBHBIO 6210 Applied Biostatistics I</li>
@@ -13,7 +13,7 @@
 </ul>
 
 <ul>
-<strong><p>Case Western Reserve University, Cleveland, OH
+<strong>Case Western Reserve University, Cleveland, OH
   <p>Position: Teaching Associate</p>
 <li>[Fall, 2018] PQHS 414 Data Management and Statistics Programming (SAS)</li>
 <li>[Summer, 2018] Medical statistics for MD students (Lerner College of Medicine)</li>
