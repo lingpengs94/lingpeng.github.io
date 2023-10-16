@@ -10,7 +10,7 @@
 <strong>[Spring, 2023]</strong> PUBHBIO 6270 Introduction to SAS for Public Health Students
 </div>
 
-<h4 style="margin: 30px 0px 10px;">Case Western Reserve University, Cleveland, OH
+<h3 style="margin: 30px 0px 10px;">Case Western Reserve University, Cleveland, OH
 
 <li><strong>[Fall, 2018]</strong> PQHS 414 Data Management and Statistics Programing (SAS)
 <li><strong>[Summer, 2018]</strong> Medical statistics for MD students (Lerner College of Medicine)
