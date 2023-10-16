@@ -12,7 +12,10 @@ main:
 
  - title: "Conferences & Events"
     url: ./#conferences
-    
+
+ - title: "Research"
+    url: ./#research
+
   - title: "Teaching"
     url: ./#publications
 
