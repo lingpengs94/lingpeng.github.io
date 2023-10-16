@@ -1,8 +1,9 @@
 <h1 id="Teaching"></h1>
 
-<h2 style="margin: 30px 0px 10px;">Teaching
-  
+<h2 style="margin: 30px 0px 10px;">Teaching</h2>
+
 <ul style="margin:0 0 20px;">
+  
 <strong><p> The Ohio State University, Columbus, OH
 
 <li>[Fall, 2022]PUBHBIO 2210 Biostatistics for Public Health Research</li>
@@ -13,7 +14,6 @@
 
 <ul style="margin:0 0 20px;">
 <strong><p>Case Western Reserve University, Cleveland, OH
-<ul>
 <li><strong>[Fall, 2018] PQHS 414 Data Management and Statistics Programming (SAS)</li>
 <li><strong>[Summer, 2018] Medical statistics for MD students (Lerner College of Medicine)</li>
 </ul>
