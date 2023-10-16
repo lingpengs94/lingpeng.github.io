@@ -14,4 +14,4 @@ main:
     url: ./#publications
 
   - title: "Bio"
-    url: ./_config.yml
+    url: _config.yml
