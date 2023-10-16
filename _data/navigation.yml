@@ -3,12 +3,15 @@ main:
   - title: "Contact"
     url: ./#contact 
     right: true 
+    
+     - title: "Services"
+   url: ./#services
 
   - title: "Publications"
     url: ./#publications
 
-# - title: "Conferences & Events"
-#    url: ./#conferences
+ - title: "Conferences & Events"
+    url: ./#conferences
     
   - title: "Teaching"
     url: ./#publications
@@ -16,8 +19,7 @@ main:
   - title: "Bio"
     url: ./#about-me
 
-#  - title: "Services"
-#    url: ./#services
+
 
   #- title: "Talks"
   #  url: ./#invited-talks
