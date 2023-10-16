@@ -62,9 +62,9 @@ comments:
   gitalk: true
   gitalk_clientID: 'b24113b6fa80cb32f97e'
   gitalk_Secret: 'cc8405a638612ed79abe54f7f45cfa222b29e592'
-  gitalk_repo: 'song-chen1.github.io'
-  gitalk_owner: 'song-chen1'
-  gitalk_admin: 'song-chen1'
+  gitalk_repo: 'lingpengs94.github.io'
+  gitalk_owner: 'lingpengs94'
+  gitalk_admin: 'lingpengs94'
   distractionFreeMode: true
 
 
