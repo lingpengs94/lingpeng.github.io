@@ -2,7 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">Teaching</h2>
 
-<h3 style="margin: 30px 0px 10px;">The Ohio State University, Columbus, OH</h3>
+<h3 style="margin: 30px 0px 10px;">The Ohio State University, Columbus, OH
 
 <ul>
 
@@ -13,7 +13,7 @@
 </div>
 </ul>
 
-<h4 style="margin: 30px 0px 10px;">Case Western Reserve University, Cleveland, OH</h4>
+<h4 style="margin: 30px 0px 10px;">Case Western Reserve University, Cleveland, OH
 
 <ul>
 
