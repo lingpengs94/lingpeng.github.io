@@ -1,53 +1,15 @@
 <h1 id="conferences"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Conferences & Events<temp style="font-size:15px;"></temp></h2>
+<h2 style="margin: 30px 0px -15px;">Conferences<temp style="font-size:15px;"></temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
+  
+<li> Azagba S, <strong>Shan L</strong>, Hall M, Wolfson M (2021, June). Alcohol exclusion laws, health insurance andalcohol-related behaviors. The 44th Annual Research Society on Alcoholism Scientific Meeting jointly with the International Society for Biomedical Research on Alcoholism Congress, Virtual.</li>
 
-{% for link in site.data.conferences.main %}
+<li><strong>Shan L</strong>, and Azagba S (2020, October). Social media and adolescents’ subsequent cigarette and e-cigarette initiation. APHA's 2020 Annual Meeting and Expo, Virtual.</li>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-            <abbr class="badge">{{ link.conference_short }}</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.web }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="author">{{ link.abstract }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.web %} 
-      <a href="{{ link.web }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      {% endif %}
-      {% if link.notes %}
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
-{% endfor %}
+<li>Dirajlal-Fargo S, Sattar A, <strong>Shan L</strong>, Bowman, E, Nazzinda, R, Musiime V, Funderburg, N, McComsey, GA (2019, October). Inflammation and plasma selenium and chromium in Ugandanchildren living with HIV. IDWeeks, Washington, DC. </li>
 
 
+</ol>
