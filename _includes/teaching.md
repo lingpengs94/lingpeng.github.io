@@ -14,8 +14,8 @@
 
 <ul style="margin:0 0 20px;">
 <strong><p>Case Western Reserve University, Cleveland, OH
-<li><strong>[Fall, 2018] PQHS 414 Data Management and Statistics Programming (SAS)</li>
-<li><strong>[Summer, 2018] Medical statistics for MD students (Lerner College of Medicine)</li>
+<li>[Fall, 2018] PQHS 414 Data Management and Statistics Programming (SAS)</li>
+<li>[Summer, 2018] Medical statistics for MD students (Lerner College of Medicine)</li>
 </ul>
 
 
