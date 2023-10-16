@@ -16,10 +16,6 @@ main:
   - title: "Bio"
     url: ./#about-me
 
-  - title: "Contact"
-    url: ./#contact 
-    right: true 
-
   - title: "Services"
     url: ./#services
 
