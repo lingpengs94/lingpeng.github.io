@@ -7,8 +7,8 @@ main:
   - title: "Publications"
     url: ./#publications
 
- - title: "Conferences & Events"
-    url: ./#conferences
+# - title: "Conferences & Events"
+#    url: ./#conferences
     
   - title: "Teaching"
     url: ./#publications
