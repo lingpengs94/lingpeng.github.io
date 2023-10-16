@@ -1,7 +1,7 @@
 main:
 
   - title: "Contact"
-    url: ./#contact 
+    url: ./#others
     right: true 
     
      - title: "Services"
