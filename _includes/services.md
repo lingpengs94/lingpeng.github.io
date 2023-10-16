@@ -2,9 +2,8 @@
 
 <h4 style="margin:0 10px 0;">REVIEWER SERVICE</h4>
 
-<ul style="margin:0 0 20px;">
-
-   <li>APHA's Annual Meeting and Expo (2020; 2021) BMC Psychiatry</li>
+<ul>
+<li>APHA's Annual Meeting and Expo (2020; 2021) BMC Psychiatry</li>
 <li>BMC Cancer</li>
 <li>BMC Health Services Research</li>
 <li>BMJ Open Diabetes Research & Care BMC Microbiology</li>
@@ -24,5 +23,4 @@
 <li>International Journal of Environmental Research and Public Health International Archives of Substance Abuse and Rehabilitation Pharmacy</li>
 <li>Pediatric Reports</li>
 <li>Youth</li>
-  
 </ul>
