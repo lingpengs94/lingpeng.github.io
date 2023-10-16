@@ -15,3 +15,21 @@ main:
 
   - title: "Bio"
     url: https://github.com/lingpengs94/lingpengs94.github.io/blob/1834bf9d1ee817cafa7635dc732fd9962b552d3d/_config.yml
+
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
+
+  - title: "Services"
+    url: ./#services
+
+  #- title: "Talks"
+  #  url: ./#invited-talks
+
+  #- title: "Teaching"
+  #  url: ./#teaching
+
+  #- title: "News"
+  #  url: ./#news
+
+ 
