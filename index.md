@@ -31,6 +31,8 @@ Moreover, I possess extensive knowledge in conducting quasi-experimental analyse
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/conference.md %}
+
 {% include_relative _includes/teaching.md %}
 
 <!--{% include_relative _includes/talks.md %}-->
