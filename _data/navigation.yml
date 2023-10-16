@@ -9,7 +9,9 @@ main:
 
   - title: "Publications"
     url: ./#publications
-
+    
+  - title: "Teaching"
+    url: ./#publications
 
   - title: "Bio"
     url: ./_config.yml
