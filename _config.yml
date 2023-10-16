@@ -7,12 +7,12 @@ subaffiliation_link: https://biostatprograms.osu.edu/
 affiliation_logo: ./assets/img/cph.png
 email: shan.90 (at) osu.com
 address: 250 Cunz Hall, Columbus, OH, 43210
-address_link: 
+Citizenship: China [U.S Permanent resident (Green Card)]
 
 # Search Engine Optimization (SEO)
 keywords: Lingpeng Shan, Andrew Shan, Lingpeng, Shan Lingpeng
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
+description: Lingpeng Shan is a Ph.D. canditate in biostatistics at The Ohio State Univeristy. His research lies at Bayesian Nonparametric, Longitudinal, Survival, and joint modeling of data involving multiple types of responses, often grappling with intricate issues like missing data and detection limits. 
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -22,10 +22,9 @@ enable_last_update: false
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=f2TsGikAAAAJ&hl=en
-cv_link: 
+cv_link: https://www.icloud.com/iclouddrive/00fbnAtfFxXtBAv2HadH7Fd1A#CURRICULUM_VITAE
 github_link: https://github.com/lingpengs94
 linkedin: https://www.linkedin.com/in/lingpengs/
-twitter: 
 researchgate: https://www.researchgate.net/profile/Lingpeng-Shan
 
 # Images 
